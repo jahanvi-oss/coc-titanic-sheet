@@ -1,5 +1,5 @@
 # coc-titanic-sheet
-titanicsheet
+Titanic Sheet
 Overview
 
 Titanicsheet is a Google Sheet project containing a dataset of historical passenger records, modeled after the famous Titanic dataset. It includes information such as passenger class, age, fare, family relations, and survival status — useful for data exploration, visualization, and machine-learning exercises.
@@ -58,6 +58,7 @@ The dataset is ideal for educational and analytical use.
 
 Attribution is appreciated if you share results based on this sheet.
 
-💾 Getting Started
+
+Getting Started
 
 Export the sheet as .xlsx or .csv for offline use.
